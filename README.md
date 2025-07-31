@@ -1,1 +1,3 @@
 # AI-powered-Presentation-Coach
+
+The AI-powered Presentation Skills Trainer is an intelligent application designed to help individuals enhance their seminar and public speaking capabilities. The system provides real-time and post-presentation feedback on various communication aspects such as tone, clarity, pacing, posture, gesture, eye contact, and use of filler words. It also includes a unique feature to compare current performances with previous ones to track improvement over time. This project addresses the lack of accessible, personalized training tools for developing effective presentation skills, which are critical for academic, professional, and personal success.
